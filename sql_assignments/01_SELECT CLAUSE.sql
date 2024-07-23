@@ -5,7 +5,7 @@ from emp;
 
 -- 2] WAQTD JOB & SALARY OF ALL THE EMPLOYEES.
 select job, sal
-from emp:
+from emp;
 
 -- 3] WAQTD NAME & JOB OF ALL EMPLOYEES.
 select ename, job
